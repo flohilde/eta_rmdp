@@ -1,0 +1,10 @@
+numpy==1.20.2
+simplejson==3.17.2
+matplotlib==3.4.1
+lightgbm==3.2.1
+pathos==0.2.7
+pandas==1.2.4
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu
+torchvision==0.9.1+cpu
+torchaudio===0.8.1
