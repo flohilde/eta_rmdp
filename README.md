@@ -8,3 +8,6 @@ To install requirements:
 ```setup
 pip install -r requirements.txt
 ```
+
+## Licence
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
